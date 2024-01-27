@@ -18,7 +18,7 @@ a) Open this link in your browser with gitpod(recommended): https://gitpod.io#ht
 
 b) You can clone this repository on your local computer:
 ```sh
-$ git clone https://github.com/breatheco-de/exercise-build-your-resume-html-css.git
+$ git clone https://github.com/mtdowner/exercise-build-your-resume-html-css.git
 ```
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
